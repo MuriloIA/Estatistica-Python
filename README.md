@@ -105,3 +105,23 @@ Em estatística, o desvio médio ou desvio médio absoluto dos elementos de um c
 ### $$dm(X) = \frac{\sum_{i=1}^n|x_i - \bar{x}|}{n}$$
 
 ## Variância ⚗️
+
+Na estatística, a variância de uma variável aleatória é a medida da sua dispersão estatística, indicando "o quão longe" em geral os seus valores se encontram do valor esperado. A obtênção dessa medida se dá pela fórmula:
+
+#### $\sigma^2(x) = \frac{\sum_{i=1}^N(x_i - \bar{x})^2}{N}$ (Variância Populacional)
+
+<br>
+
+#### $\sigma^2(x) = \frac{\sum_{i=1}^N(x_i - \bar{x})^2}{N-1}$ (Variância Amostral)
+
+## Desvio Padrão
+
+A variância é uma medida muito últil, porem quando à usamos associada à alguma uniadde de medida, como por exemplo, metros ($m$), segundos ($s$) ou massa ($kg$), elevamos essas unidades ao quadrado e isso dificulta a interpretação dos resultados, para esses casos utilizamos uma outra medida de dispersão chamada de *desvio padrão*, expressa pela seguinte fórmula:
+
+#### $\sigma(x) = \sqrt{\frac{\sum_{i=1}^N(x_i - \bar{x})^2}{N}}$ (Desvio Padrão Populacional)
+
+<br>
+
+#### $S = \sqrt{\frac{\sum_{i=1}^N(x_i - \bar{x})^2}{N - 1}}$ (Desvio Padrão Amostral)<br><br>
+
+## Coeficiente de Variação ou Desvio Padrão Relativo
