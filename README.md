@@ -124,4 +124,10 @@ A variância é uma medida muito últil, porem quando à usamos associada à alg
 
 #### $S = \sqrt{\frac{\sum_{i=1}^N(x_i - \bar{x})^2}{N - 1}}$ (Desvio Padrão Amostral)<br><br>
 
-## Coeficiente de Variação ou Desvio Padrão Relativo
+## Coeficiente de Variação 🐐
+
+O coeficiente de variação ou desvio padrão relativo é uma medida relativa de variabilidade que permite a comparação da dispersão de duas características diferentes. É utilizada para comparar em termos relativos o grau de concentração dos dados em torno da média de séries distintas.
+
+### $$C_v = \frac{\sigma}{\bar{X}}$$
+
+### $$C_v = \frac{S}{\bar{X}}$$
